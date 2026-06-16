@@ -1,1 +1,3 @@
-# osticket-config
+# osTicket Configuration
+
+## 

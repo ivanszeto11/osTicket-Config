@@ -4,10 +4,8 @@
 
 ## Environments and Technologies Used
 
-<div>
-  - Microsoft Azure
-  - Windows 11 Pro
-  - osTicket
-</div>
+- Microsoft Azure
+- Windows 11 Pro
+- osTicket
 
 ## Walk-through

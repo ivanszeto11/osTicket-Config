@@ -17,7 +17,12 @@ This project demonstrates the post-installation configuration of an open-source 
 
 ### Skills Learned
 
+- Configuring agent settings in the osTicket environment to manage permissions and access 
+- Creating SLAs and Help Topics to categorize tickets
+
 ## Walk-through
+
+For this project, we have the osTicket program installed on a Windows 11 Pro VM hosted in Microsoft Azure. 
 
 <img width="1871" height="937" alt="osticket-setup-1" src="https://github.com/user-attachments/assets/bf5b9630-c12b-4a4b-9986-e1df0c0262d1" />
 
